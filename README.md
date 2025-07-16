@@ -1,6 +1,9 @@
 # 🛡️ StegoSecure – Secure Image-Based Data Hiding Tool
 
-**StegoSecure** is a Python-based steganography application that allows users to securely **hide and retrieve messages within image files**. It supports both **command-line and GUI modes** and includes **encryption capabilities** for added data protection.
+**StegoSecure** enhances traditional image steganography by combining it with **AES** encryption, ensuring that:
+The hidden message is invisible to anyone viewing the image.
+Even if extracted, the message remains unreadable without the correct password.
+This dual-layer approach provides both secrecy (steganography) and security (encryption).
 
 ---
 
@@ -111,7 +114,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**\[Your Name Here]**
+**\[Behramm Umrigar]**
 GitHub: [@Behramm10](https://github.com/Behramm10)
 
 ---
